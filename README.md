@@ -17,7 +17,7 @@ Brawl Stars v20 Open Source Server!
 
 ## Files
 
-To Run Server Download Apk and Files [Here](https://mega.nz/file/4DphWIBD#AqgVpBogfEl48GHAGQA55dDSWSmqDZMCAp8lcdTV058)
+To Run Server Download Apk And Files [Here](https://mega.nz/file/4DphWIBD#AqgVpBogfEl48GHAGQA55dDSWSmqDZMCAp8lcdTV058)
 
 ## Need help?
 
