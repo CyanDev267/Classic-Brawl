@@ -13,7 +13,7 @@
 
 ## Files
 
-To Run Server Download Apk and Files [Here](https://mega.nz/file/4DphWIBD#AqgVpBogfEl48GHAGQA55dDSWSmqDZMCAp8lcdTV058)
+To Run Server Download Apk And Files In Any Branch
 
 ## Need help?
 
