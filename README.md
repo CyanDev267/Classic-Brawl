@@ -1,9 +1,5 @@
 <h1 align="center">Welcome to Classic-Brawl 👋</h1>
 
-Brawl Stars Open Source Server!
-
-
-
 ## Run Server On Android
 
 - Download The Files and Apk
