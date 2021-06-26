@@ -2,7 +2,7 @@
 
 Brawl Stars Open Source Server!
 
-![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858387810540585010/v20.png) 
+
 
 ## Run Server On Android
 
