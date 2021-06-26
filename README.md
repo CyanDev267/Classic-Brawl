@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Classic-Brawl 👋</h1>
 
-Brawl Stars v25 Open Source Server!
+Brawl Stars v26 Open Source Server!
 
-![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858461518097940490/v25.png) 
+![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858483850060759040/v26.png) 
 
 ## Run Server On Android
 
@@ -17,7 +17,7 @@ Brawl Stars v25 Open Source Server!
 
 ## Files
 
-To Run Server Download Apk and Files [Here](https://mega.nz/file/BLpFUayA#0bIrWeVdrmTMPjlzOab2G2wGPEYmaT_zEOyaq5pQ_2E)
+To Run Server Download Apk and Files [Here](https://mega.nz/file/geBTiQLA#ZtiEC-NegubZEZOwKKA6DhytzhAy7LUrmqBnlR8K5rU)
 
 ## Need help?
 
