@@ -6,7 +6,7 @@ Brawl Stars v25 Open Source Server!
 
 ## Run Server On Android
 
-- Download The Files and Apk
+- Download The Files And Apk
 - Download PyDroid On [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 - Download Pydroid Repository Plugin On [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo)
 - In PyDroid Go In The "Pip" Section, Type "tinydb", Then Click Install.
