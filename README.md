@@ -2,7 +2,7 @@
 
 Brawl Stars v22 Open Source Server!
 
-![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858425822910349352/v24.png) 
+![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858461518097940490/v25.png) 
 
 ## Run Server On Android
 
@@ -13,7 +13,7 @@ Brawl Stars v22 Open Source Server!
 - In PyDroid Open And Execute "Main.py" File
 - Click The Button Below To Run The Server In Background
 
-![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858461518097940490/v25.png)
+![ScreenShot](https://cdn.discordapp.com/attachments/849979572911996939/849983377540907018/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3834363238313737353439.jpeg)
 
 ## Files
 
