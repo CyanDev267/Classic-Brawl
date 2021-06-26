@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Classic-Brawl 👋</h1>
 
-Brawl Stars v22 Open Source Server!
+Brawl Stars v24 Open Source Server!
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/858425822910349352/v24.png) 
 
