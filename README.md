@@ -21,9 +21,9 @@ To Run Server Download Apk and Files [Here](https://mega.nz/file/ZC4SnAjI#0BsfkD
 
 ## Need help?
 
-[Classic Brawl Discord Server](https://discord.gg/ecb5fQkKyk)
+[Classic Brawl Discord](https://discord.gg/ecb5fQkKyk)
 
-[Mega Brawl Discord Server](https://discord.gg/PbGZjvsq2C)
+[Mega Brawl Discord](https://discord.gg/PbGZjvsq2C)
 
 ## Authors
 
