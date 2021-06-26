@@ -6,7 +6,7 @@ Brawl Stars v20 Open Source Server!
 
 ## Run Server On Android
 
-- Download The Server Files and Apk
+- Download The Files and Apk
 - Download PyDroid On [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 - Download Pydroid Repository Plugin On [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo)
 - In PyDroid Go In The "Pip" Section, Type "tinydb", Then Click Install.
@@ -15,9 +15,9 @@ Brawl Stars v20 Open Source Server!
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/849979572911996939/849983377540907018/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3834363238313737353439.jpeg)
 
-## Configure Client
+## Files
 
-To Run Server Download Apk [Here](https://mega.nz/file/ZC4SnAjI#0BsfkDlTRpmOU_4NHuigLM_3uAjttmFnzxFTLvwaiI8)
+To Run Server Download Apk and Files [Here](https://mega.nz/file/ZC4SnAjI#0BsfkDlTRpmOU_4NHuigLM_3uAjttmFnzxFTLvwaiI8)
 
 ## Need help?
 
@@ -33,7 +33,7 @@ To Run Server Download Apk [Here](https://mega.nz/file/ZC4SnAjI#0BsfkDlTRpmOU_4N
 
 👤 **Crazor**
 
-* Github [@CrazorCLB](https://github.com/CrazorCLB)
+* Github [@CrazorTheCat](https://github.com/CrazorTheCat)
 
 👤 **Vitalik**
 
