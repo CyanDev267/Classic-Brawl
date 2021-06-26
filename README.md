@@ -17,7 +17,7 @@ Brawl Stars v24 Open Source Server!
 
 ## Files
 
-To Run Server Download Apk and Files [Here](https://mega.nz/file/9WZwmbxC#UwqHILI7chZ8mCxoR-Lj2AmauI08CG7w5kxdBgnJtHo)
+To Run Server Download Apk And Files [Here](https://mega.nz/file/9WZwmbxC#UwqHILI7chZ8mCxoR-Lj2AmauI08CG7w5kxdBgnJtHo)
 
 ## Need help?
 
